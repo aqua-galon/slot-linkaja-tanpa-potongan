@@ -1,7 +1,7 @@
 {
   "name": "slot-deposit-dana-5000",
   "main": "./slots/slot-dana-5000",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Daftar slot deposit dana 5000",
   "keywords": [
     "Slot Deposit dana",
