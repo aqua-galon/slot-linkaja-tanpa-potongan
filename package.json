@@ -1,13 +1,21 @@
 {
-  "name": "ui-theme-template",
-  "theme": "ui",
-  "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "name": "slot-deposit-dana-5000",
+  "main": "./slots/slot-dana-5000",
+  "version": "1.0.0",
+  "description": "Daftar slot deposit dana 5000",
   "keywords": [
-    "ui",
-    "theme"
+    "Slot Deposit dana",
+    "Slot Deposit dana Tanpa Potongan",
+    "Slot dana",
+    "Slot dana 5000",
+    "Slot dana 5000 Tanpa Potongan",
+    "Slot dana Tanpa Potongan",
+    "Slot Via dana"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "activationCommands": {
+    "atom-workspace": "slot-dana-5000:toggle"
+  },
+  "repository": "https://github.com/Slot-Online-Gacor-5000/slot-via-dana-5000",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
