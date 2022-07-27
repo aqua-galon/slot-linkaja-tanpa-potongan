@@ -1,23 +1,23 @@
 {
   "name": "slot-linkaja-tanpa-potongan",
   "main": "./slots/situs-slot-tanpa-potongan",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Situs kami menyediakan slot gacor 2022",
   "keywords": [
-  "slot linkaja tanpa potongan",
-  "slot tanpa potongan e wallet",
-  "slot deposit linkaja",
-  "slot via linkaja",
-  "slot pakai linkaja",
-  "slot online linkaja",
-  "judi slot linkaja",
-  "judi slot linkaja",
-  "slot gacor tanpa potongan",
-  "slot rtp tanpa potongan",
-  "slot maxwin tanpa potongan",
-  "judi slot",
-  "slot poker"
-],
+    "slot linkaja tanpa potongan",
+    "slot tanpa potongan e wallet",
+    "slot deposit linkaja",
+    "slot via linkaja",
+    "slot pakai linkaja",
+    "slot online linkaja",
+    "judi slot linkaja",
+    "judi slot linkaja",
+    "slot gacor tanpa potongan",
+    "slot rtp tanpa potongan",
+    "slot maxwin tanpa potongan",
+    "judi slot",
+    "slot poker"
+  ],
   "activationCommands": {
     "atom-workspace": "slot-linkaja-tanpa-potongan:toggle"
   },
