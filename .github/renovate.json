@@ -1,14 +1,14 @@
 {
   "schedule": ["every weekend"],
   "labels": ["dependencies"],
-  "separateMajorMinor": "false",
+  "separateMajorMinor": "true",
   "packageRules": [
     {
       "matchDepTypes": ["devDependencies"],
       "matchUpdateTypes": ["major", "minor", "patch", "pin", "digest", "lockFileMaintenance", "rollback", "bump"],
       "groupName": "devDependencies",
       "semanticCommitType": "chore",
-      "automerge": true
+      "automerge": false
     },
     {
       "matchDepTypes": ["dependencies"],

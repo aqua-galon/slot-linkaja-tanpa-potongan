@@ -1,21 +1,27 @@
 {
-  "name": "slot-deposit-dana-5000",
-  "main": "./slots/slot-dana-5000",
+  "name": "situs-slot-linkaja-tanpa-potongan",
+  "main": "./coco/situs-slot-tanpa-potongan",
   "version": "1.1.0",
-  "description": "Daftar slot deposit dana 5000",
+  "description": "Situs kami menyediakan slot gacor 2022",
   "keywords": [
-    "Slot Deposit dana",
-    "Slot Deposit dana Tanpa Potongan",
-    "Slot dana",
-    "Slot dana 5000",
-    "Slot dana 5000 Tanpa Potongan",
-    "Slot dana Tanpa Potongan",
-    "Slot Via dana"
-  ],
+  "slot tanpa potongan",
+  "slot tanpa potongan e wallet",
+  "slot tanpa potongan linkaja",
+  "slot tanpa potongan gopay",
+  "slot tanpa potongan ovo",
+  "slot tanpa potongan bca",
+  "slot tanpa potongan dana",
+  "slot tanpa potongan online",
+  "slot gacor tanpa potongan",
+  "slot rtp tanpa potongan",
+  "slot maxwin tanpa potongan",
+  "judi slot",
+  "slot poker"
+],
   "activationCommands": {
-    "atom-workspace": "slot-dana-5000:toggle"
+    "atom-workspace": "situs-slot-tanpa-potongan:toggle"
   },
-  "repository": "https://github.com/Slot-Online-Gacor-5000/slot-via-dana-5000",
+  "repository": "https://github.com/slotdeposit5rb/situs-slot-tanpa-potongan",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
