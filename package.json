@@ -1,27 +1,27 @@
 {
-  "name": "situs-slot-linkaja-tanpa-potongan",
+  "name": "name",
   "main": "./coco/situs-slot-tanpa-potongan",
   "version": "1.1.0",
   "description": "Situs kami menyediakan slot gacor 2022",
   "keywords": [
-  "slot tanpa potongan",
-  "slot tanpa potongan e wallet",
-  "slot tanpa potongan linkaja",
-  "slot tanpa potongan gopay",
-  "slot tanpa potongan ovo",
-  "slot tanpa potongan bca",
-  "slot tanpa potongan dana",
-  "slot tanpa potongan online",
-  "slot gacor tanpa potongan",
-  "slot rtp tanpa potongan",
-  "slot maxwin tanpa potongan",
-  "judi slot",
-  "slot poker"
-],
+    "slot tanpa potongan",
+    "slot tanpa potongan e wallet",
+    "slot tanpa potongan linkaja",
+    "slot tanpa potongan gopay",
+    "slot tanpa potongan ovo",
+    "slot tanpa potongan bca",
+    "slot tanpa potongan dana",
+    "slot tanpa potongan online",
+    "slot gacor tanpa potongan",
+    "slot rtp tanpa potongan",
+    "slot maxwin tanpa potongan",
+    "judi slot",
+    "slot poker"
+  ],
   "activationCommands": {
-    "atom-workspace": "situs-slot-tanpa-potongan:toggle"
+    "atom-workspace": "slot-linkaja-tanpa-potongan:toggle"
   },
-  "repository": "https://github.com/slotdeposit5rb/situs-slot-tanpa-potongan",
+  "repository": "https://github.com/aqua-galon/slot-linkaja-tanpa-potongan",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
