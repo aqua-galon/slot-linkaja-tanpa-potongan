@@ -18,9 +18,9 @@
     "judi slot"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-linkaja-tanpa-potongan:toggle"
+    "atom-workspace": "slot-linkaja-pgsoft:toggle"
   },
-  "repository": "https://github.com/aqua-galon/slot-linkaja-tanpa-potongan",
+  "repository": "git remote add origin https://github.com/aqua-cup/slot-linkaja-pgsoft.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
